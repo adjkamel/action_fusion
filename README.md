@@ -11,7 +11,7 @@ This repository contains code for the paper [Deep Convolutional Neural Networks 
 ![skelorder](https://user-images.githubusercontent.com/50513215/120077875-84327180-c0a4-11eb-96d6-cdff35e93c15.PNG)
 
 
-
+![s](https://user-images.githubusercontent.com/50513215/120083401-683cc900-c0c0-11eb-97d2-18bb6d072a2c.PNG)
 #### Model
 
 #### Resullts
