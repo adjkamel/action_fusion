@@ -5,7 +5,7 @@ This repository contains code for the paper [Deep Convolutional Neural Networks 
 #### Datasets
 
 #### Preprocessing
-![skelorder](https://user-images.githubusercontent.com/50513215/120077783-f9ea0d80-c0a3-11eb-97dd-33ca42ff0b8c.PNG)
+![skelorder](https://user-images.githubusercontent.com/50513215/120077856-5baa7780-c0a4-11eb-95e8-9a0944377b86.PNG)
 #### Model
 
 #### Resullts
