@@ -2,20 +2,29 @@
 This repository contains code for the paper [Deep Convolutional Neural Networks for Human Action Recognition Using Depth Maps and Postures
 ](https://ieeexplore.ieee.org/abstract/document/8409991)
 
+#### Requirement
+
 #### Datasets
+Links of the dataset:
+- [MSR-Action 3D](https://www.microsoft.com/en-us/download/details.aspx?id=52315)
+- [UTD-MHAD](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html)
+- [MAD](http://humansensing.cs.cmu.edu/mad/download.html)
 
 #### Preprocessing
-![d](https://user-images.githubusercontent.com/50513215/120083391-48a5a080-c0c0-11eb-8322-e5ecd46c38a8.PNG)
 
+![d](https://user-images.githubusercontent.com/50513215/120083391-48a5a080-c0c0-11eb-8322-e5ecd46c38a8.PNG)
 
 ![skelorder](https://user-images.githubusercontent.com/50513215/120077875-84327180-c0a4-11eb-96d6-cdff35e93c15.PNG)
 
-
 ![s](https://user-images.githubusercontent.com/50513215/120083401-683cc900-c0c0-11eb-97d2-18bb6d072a2c.PNG)
+
 #### Model
 
 #### Resullts
+The pretrained model for each dataset:
 
-https://user-images.githubusercontent.com/50513215/120069548-681bd980-c07e-11eb-88a6-1341a956a885.mp4
+- [MSR-Action 3D](https://drive.google.com/file/d/1pS1OvaIKzJdjvwwixY7SrhvWxRJUUpe_/view?usp=sharing)
+- [UTD-MHAD](https://drive.google.com/file/d/1VBtGFLbaG9vsCKPurWsvtRdgJ8PA2kjK/view?usp=sharing)
+- [MAD](https://drive.google.com/file/d/1zQVFCoDbr4JvEgrR5K5591iS5y5HJbyA/view?usp=sharing)
 
 
