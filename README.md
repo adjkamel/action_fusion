@@ -27,4 +27,4 @@ The pretrained model for each dataset:
 - [UTD-MHAD](https://drive.google.com/file/d/1VBtGFLbaG9vsCKPurWsvtRdgJ8PA2kjK/view?usp=sharing)
 - [MAD](https://drive.google.com/file/d/1zQVFCoDbr4JvEgrR5K5591iS5y5HJbyA/view?usp=sharing)
 
-
+https://user-images.githubusercontent.com/50513215/120119097-be2b7280-c18d-11eb-9fc0-be5ea76e37c2.mp4
