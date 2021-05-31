@@ -4,7 +4,7 @@ This repository contains code for the paper [Deep Convolutional Neural Networks 
 
 #### Requirements
 - Caffe
-- Python 3
+- Python
 - Matlab 2016a or above
 #### Datasets
 Links of the datasets: [MSR-Action 3D](https://www.microsoft.com/en-us/download/details.aspx?id=52315), [UTD-MHAD](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html), and [MAD](http://humansensing.cs.cmu.edu/mad/download.html)
