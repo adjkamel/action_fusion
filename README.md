@@ -25,7 +25,7 @@ Links of the datasets: [MSR-Action 3D](https://www.microsoft.com/en-us/download/
 #### Models
 - The models were trained using Caffe deep learning framework.
 - The folders MSR-Action 3D, UTD-MHAD, MAD contain Caffe files for training, testing, and generated prediction in .mat format
-- The pretrained models of each dataset can be found the links: [MSR-Action 3D](https://drive.google.com/file/d/1pS1OvaIKzJdjvwwixY7SrhvWxRJUUpe_/view?usp=sharing), [UTD-MHAD](https://drive.google.com/file/d/1VBtGFLbaG9vsCKPurWsvtRdgJ8PA2kjK/view?usp=sharing), and [MAD](https://drive.google.com/file/d/1zQVFCoDbr4JvEgrR5K5591iS5y5HJbyA/view?usp=sharing)
+- The pretrained models of each dataset can be found the links: [pre-MSR-Action 3D](https://drive.google.com/file/d/1pS1OvaIKzJdjvwwixY7SrhvWxRJUUpe_/view?usp=sharing), [pre-UTD-MHAD](https://drive.google.com/file/d/1VBtGFLbaG9vsCKPurWsvtRdgJ8PA2kjK/view?usp=sharing), and [pre-MAD](https://drive.google.com/file/d/1zQVFCoDbr4JvEgrR5K5591iS5y5HJbyA/view?usp=sharing)
 - To generate prediction from the pretrained models, use the prediction.py file
 
 #### Resullts
