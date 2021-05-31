@@ -11,7 +11,9 @@ Links of the datasets: [MSR-Action 3D](https://www.microsoft.com/en-us/download/
 
 #### Preprocessing
 
-![d](https://user-images.githubusercontent.com/50513215/120083391-48a5a080-c0c0-11eb-8322-e5ecd46c38a8.PNG)
+- DMI descriptor
+
+- ![d](https://user-images.githubusercontent.com/50513215/120083391-48a5a080-c0c0-11eb-8322-e5ecd46c38a8.PNG)
 
 ![skelorder](https://user-images.githubusercontent.com/50513215/120077875-84327180-c0a4-11eb-96d6-cdff35e93c15.PNG)
 
