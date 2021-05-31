@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/50513215/120119097-be2b7280-c18d-11eb-
 
 #### Citation
 If you use this code for your research, please cite the following papers:
-
+```
 @article{kamel2018deep,
   title={Deep convolutional neural networks for human action recognition using depth maps and postures},
   author={Kamel, Aouaidjia and Sheng, Bin and Yang, Po and Li, Ping and Shen, Ruimin and Feng, David Dagan},
@@ -47,3 +47,4 @@ If you use this code for your research, please cite the following papers:
   year={2018},
   publisher={IEEE}
 }
+```
