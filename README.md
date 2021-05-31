@@ -2,8 +2,10 @@
 This repository contains code for the paper [Deep Convolutional Neural Networks for Human Action Recognition Using Depth Maps and Postures
 ](https://ieeexplore.ieee.org/abstract/document/8409991)
 
-#### Requirement
-
+#### Requirements
+- Caffe
+- Python 3
+- Matlab 2016a or above
 #### Datasets
 Links of the dataset:
 - [MSR-Action 3D](https://www.microsoft.com/en-us/download/details.aspx?id=52315)
