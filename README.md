@@ -24,14 +24,12 @@ Links of the datasets: [MSR-Action 3D](https://www.microsoft.com/en-us/download/
 
 #### Models
 - The models were trained using Caffe deep learning framework.
-- The folders 
-#### Resullts
-The pretrained model for each dataset:
+- The folders MSR-Action 3D, UTD-MHAD, MAD contain Caffe files for training, testing, and generated prediction in .mat format
+- The pretrained models of each dataset can be found the links: [MSR-Action 3D](https://drive.google.com/file/d/1pS1OvaIKzJdjvwwixY7SrhvWxRJUUpe_/view?usp=sharing), [UTD-MHAD](https://drive.google.com/file/d/1VBtGFLbaG9vsCKPurWsvtRdgJ8PA2kjK/view?usp=sharing), and [MAD](https://drive.google.com/file/d/1zQVFCoDbr4JvEgrR5K5591iS5y5HJbyA/view?usp=sharing)
+- To generate prediction from the pretrained models, use the prediction.py file
 
-- [MSR-Action 3D](https://drive.google.com/file/d/1pS1OvaIKzJdjvwwixY7SrhvWxRJUUpe_/view?usp=sharing)
-- [UTD-MHAD](https://drive.google.com/file/d/1VBtGFLbaG9vsCKPurWsvtRdgJ8PA2kjK/view?usp=sharing)
-- [MAD](https://drive.google.com/file/d/1zQVFCoDbr4JvEgrR5K5591iS5y5HJbyA/view?usp=sharing)
+#### Resullts
+To run the demo like in the video bellow, open the Demo folder with matlab and run main.m file. Choose the action then click "Action Prediction". The demo shows the prediction of 27 action of the UTD-MHAD dataset using the predictions saved in Demo/actions.mat generated from the pretrained model.
+- More details can be found in the paper
 
 https://user-images.githubusercontent.com/50513215/120119097-be2b7280-c18d-11eb-9fc0-be5ea76e37c2.mp4
-
-- More details can be found in the paper
