@@ -35,7 +35,7 @@ To run the demo like in the video bellow, open the Demo folder with matlab and r
 https://user-images.githubusercontent.com/50513215/120119097-be2b7280-c18d-11eb-9fc0-be5ea76e37c2.mp4
 
 #### Citation
-If you use this code for your research, please cite the following papers:
+If you use this code for your research, please cite the following paper:
 ```
 @article{kamel2018deep,
   title={Deep convolutional neural networks for human action recognition using depth maps and postures},
