@@ -17,7 +17,8 @@ Links of the datasets: [MSR-Action 3D](https://www.microsoft.com/en-us/download/
 
 - MJD descriptor: Use MJD.m to generate DMI descriptors from the raw data.
 - The order of the skeleton joints numbers in the raw data and the order used in MJD.m is shown bellow:
-![skelorder](https://user-images.githubusercontent.com/50513215/120175827-827cc100-c1fe-11eb-9605-393f9e7bdced.PNG)
+![120175827-827cc100-c1fe-11eb-9605-393f9e7bdced](https://user-images.githubusercontent.com/50513215/125314898-8851e000-e32e-11eb-99c0-a042ad872214.png)
+
 
 - Some of the MJD descriptors are shown bellow:
 ![s](https://user-images.githubusercontent.com/50513215/120083401-683cc900-c0c0-11eb-97d2-18bb6d072a2c.PNG)
